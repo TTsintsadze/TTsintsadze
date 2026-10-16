@@ -1,16 +1,29 @@
-Hello! 🖐️ I'm Temo, Front-End Developer from Georgia 🇬🇪. As a junior Front-End developer with experience in React, Express, Node.js, Tailwind CSS, Styled Components, and TypeScript, I am constantly striving to improve my skills and learn new technologies. I am always looking for new challenges and opportunities to use my skills to build innovative and high-quality web applications. If you have a project in mind that could benefit from my expertise as a junior full stack developer, don't hesitate to reach out! I'm passionate about building engaging and user-friendly web experiences 💻 using the latest technologies 🚀.
+## Temur Tsintsadze
 
-Find me:<br>
-(+995) 591-01-11-40<br>
-temo.cincadze@gmail.com
+Founder of **[Webstyle](https://webstyle.ge)** — a web studio in Tbilisi, Georgia 🇬🇪
 
-## Skills 🎓
+I build products end to end: design, front end, back end, database, server, deployment.
+Websites, online shops, AI chatbots and custom CRM platforms for growing businesses —
+**55+ projects delivered.**
 
-I have experience in the following programming languages and frameworks:
+### What I work with
 
--   HTML 📝
--   CSS 🎨
--   JavaScript 💻
--   TypeScript 💬
--   Angular 💡
--   Bootstrap 🔧
+**Front end** — Next.js · React · TypeScript · Tailwind CSS
+**Back end** — Node.js · Prisma · MySQL / MariaDB · NextAuth
+**Infrastructure** — Linux · nginx · systemd · self-hosted deployments
+
+I care about the parts people notice later: load speed, SEO, accessibility and security
+belong in the first commit, not in a follow-up ticket.
+
+### A note on these repositories
+
+Most of my recent work lives in private client repositories. The public repos here are
+older practice and bootcamp projects — they do not reflect what I build today.
+For current work, see [webstyle.ge](https://webstyle.ge).
+
+### Find me
+
+🌐 [webstyle.ge](https://webstyle.ge)
+✉️ temo.cincadze@gmail.com
+📞 (+995) 591-01-11-40
+💼 [linkedin.com/in/temotsintsadze](https://www.linkedin.com/in/temotsintsadze)
