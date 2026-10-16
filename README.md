@@ -25,5 +25,5 @@ For current work, see [webstyle.ge](https://webstyle.ge).
 
 🌐 [webstyle.ge](https://webstyle.ge)  
 ✉️ temo.cincadze@gmail.com  
-📞 (+995) 591-01-11-40
+📞 (+995) 591-01-11-40  
 💼 [linkedin.com/in/temotsintsadze](https://www.linkedin.com/in/temotsintsadze)
