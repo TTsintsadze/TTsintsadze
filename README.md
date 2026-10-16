@@ -8,8 +8,8 @@ Websites, online shops, AI chatbots and custom CRM platforms for growing busines
 
 ### What I work with
 
-**Front end** — Next.js · React · TypeScript · Tailwind CSS
-**Back end** — Node.js · Prisma · MySQL / MariaDB · NextAuth
+**Front end** — Next.js · React · TypeScript · Tailwind CSS  
+**Back end** — Node.js · Prisma · MySQL / MariaDB · NextAuth  
 **Infrastructure** — Linux · nginx · systemd · self-hosted deployments
 
 I care about the parts people notice later: load speed, SEO, accessibility and security
@@ -23,7 +23,7 @@ For current work, see [webstyle.ge](https://webstyle.ge).
 
 ### Find me
 
-🌐 [webstyle.ge](https://webstyle.ge)
-✉️ temo.cincadze@gmail.com
+🌐 [webstyle.ge](https://webstyle.ge)  
+✉️ temo.cincadze@gmail.com  
 📞 (+995) 591-01-11-40
 💼 [linkedin.com/in/temotsintsadze](https://www.linkedin.com/in/temotsintsadze)
